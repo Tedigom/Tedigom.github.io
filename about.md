@@ -6,4 +6,4 @@ permalink: /about/
 
 need to be updated
 
-email: tedigom7[at]gmail.com
+email: tedigom7@gmail.com
